@@ -1,0 +1,7 @@
+print('Informe um numero:')
+primeiroNumero = input()
+print('Informe um segundo numero:')
+segundoNumero = input()
+print('Informe um terceiro numero:')
+terceiroNumero = input()
+print('A soma deles eh ' + primeiroNumero + segundoNumero + terceiroNumero)
